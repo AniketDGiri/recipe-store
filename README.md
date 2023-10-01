@@ -1,2 +1,2 @@
-# recipe-store
-This is a web app for providing one stop solution for all food recipes
+# Movie-Store
+This is a web app for provides one-stop solution for all movies
